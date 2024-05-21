@@ -16,7 +16,7 @@ Spam mail detection is a crucial aspect of email management, helping to filter o
 
 ## Dataset
 
-The dataset used in this project consists of emails labeled as spam or not spam. Each email is represented by a set of features that are used to train the Logistic Regression model. The dataset can be found at [link to dataset source].
+The dataset used in this project consists of emails labeled as spam or not spam. Each email is represented by a set of features that are used to train the Logistic Regression model.
 
 ## Installation
 
@@ -51,10 +51,8 @@ Here's a brief overview of the steps involved:
 
 The Logistic Regression model achieves the following performance on the test set:
 
-- **Accuracy**: X.XX
-- **Precision**: X.XX
-- **Recall**: X.XX
-- **F1-score**: X.XX
+- **Accuracy**:  0.9659192825112107
+
 
 These metrics indicate the model's effectiveness in predicting spam emails.
 
